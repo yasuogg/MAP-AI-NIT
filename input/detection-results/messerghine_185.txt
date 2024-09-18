@@ -1,0 +1,5 @@
+messerghine_cap 1.00 3345 2018 3867 2563
+besbassa_bottle 0.99 797 151 3775 2719
+el_kantara_bottle 0.74 797 151 3775 2719
+messerghine_bottle 0.68 797 151 3775 2719
+ain_bouglez_bottle 0.64 797 151 3775 2719

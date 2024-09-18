@@ -1,0 +1,2 @@
+el_kantara_bottle 0.94 942 881 1809 3179
+ouwis_bottle 0.52 942 881 1809 3179

@@ -1,0 +1,2 @@
+el_kantara_ticket 0.69 373 19 595 483
+besbassa_ticket 0.51 373 19 595 483

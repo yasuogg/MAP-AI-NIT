@@ -1,0 +1,2 @@
+saida_cap 0.81 1374 521 1731 761
+lalla_khedidja_bottle 0.59 867 509 1955 3418

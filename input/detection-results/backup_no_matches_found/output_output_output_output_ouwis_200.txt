@@ -1,0 +1,2 @@
+ouwis_bottle 0.98 340 156 681 1232
+ouwis_ticket 0.93 343 509 681 839

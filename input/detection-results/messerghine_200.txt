@@ -1,0 +1,6 @@
+lalla_khedidja_bottle 0.95 889 776 1834 2874
+messerghine_ticket 0.93 930 1588 1793 2198
+saida_ticket 0.88 930 1588 1793 2198
+messerghine_bottle 0.81 889 776 1834 2874
+saida_bottle 0.73 889 776 1834 2874
+lalla_khedidja_ticket 0.65 930 1588 1793 2198

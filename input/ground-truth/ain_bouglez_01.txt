@@ -1,0 +1,3 @@
+ain_bouglez_bottle 7 1102 2970 2054
+ain_bouglez_cap 2702 1602 2991 1938
+ain_bouglez_ticket 1356 1059 2235 1749

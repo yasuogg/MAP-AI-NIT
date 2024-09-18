@@ -1,0 +1,4 @@
+saida_bottle 0.94 321 121 676 1257
+lalla_khedidja_bottle 0.88 313 117 676 1273
+saida_ticket 0.64 312 513 674 865
+ouwis_bottle 0.50 308 128 677 1278

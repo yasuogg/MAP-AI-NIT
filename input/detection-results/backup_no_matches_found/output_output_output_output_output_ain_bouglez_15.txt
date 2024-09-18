@@ -1,0 +1,2 @@
+el_kantara_bottle 0.89 175 0 573 1124
+ain_bouglez_bottle 0.70 180 9 545 1110

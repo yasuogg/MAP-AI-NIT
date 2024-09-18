@@ -1,0 +1,2 @@
+el_kantara_bottle 0.75 1124 372 1789 2719
+besbassa_cap 0.50 1248 374 1588 936

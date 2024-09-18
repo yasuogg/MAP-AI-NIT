@@ -1,0 +1,2 @@
+ain_bouglez_bottle 609 1420 1748 3612
+ain_bouglez_ticket 1005 1468 1709 2033

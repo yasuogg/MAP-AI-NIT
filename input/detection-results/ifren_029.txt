@@ -1,0 +1,3 @@
+ifren_ticket 1.00 310 113 513 424
+ifren_cap 1.00 135 464 229 555
+ifren_bottle 1.00 134 138 735 549

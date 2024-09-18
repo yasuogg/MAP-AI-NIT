@@ -1,0 +1,3 @@
+el_kantara_bottle 0.79 952 1495 1869 3294
+lalla_khedidja_bottle 0.61 979 1540 1860 3325
+lalla_khedidja_cap 0.52 1290 3056 1594 3375

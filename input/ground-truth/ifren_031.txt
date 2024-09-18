@@ -1,0 +1,3 @@
+ifren_bottle 238 55 707 702
+ifren_ticket 341 169 613 355
+ifren_cap 613 627 713 704

@@ -1,0 +1,4 @@
+messerghine_cap 0.99 3519 686 3917 1200
+ain_bouglez_bottle 0.67 752 173 4027 1786
+besbassa_bottle 0.54 740 192 3985 1808
+messerghine_bottle 0.53 807 179 3982 1798

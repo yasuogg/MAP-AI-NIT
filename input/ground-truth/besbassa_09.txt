@@ -1,0 +1,3 @@
+besbassa_ticket 100 192 271 296
+besbassa_cap 138 14 209 54
+besbassa_bottle 101 12 272 640

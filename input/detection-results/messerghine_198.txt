@@ -1,0 +1,2 @@
+saida_cap 0.83 1055 1740 1733 2226
+messerghine_ticket 0.52 1055 1740 1733 2226

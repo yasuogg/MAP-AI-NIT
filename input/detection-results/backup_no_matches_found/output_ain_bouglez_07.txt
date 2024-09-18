@@ -1,0 +1,2 @@
+besbassa_ticket 0.95 180 117 2877 2125
+besbassa_bottle 0.56 180 117 2877 2125

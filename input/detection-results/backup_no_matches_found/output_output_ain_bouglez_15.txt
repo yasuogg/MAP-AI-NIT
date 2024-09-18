@@ -1,0 +1,4 @@
+ouwis_bottle 0.95 186 0 549 1096
+ouwis_ticket 0.94 205 379 544 702
+el_kantara_ticket 0.55 209 379 539 702
+lalla_khedidja_cap 0.53 306 9 472 86

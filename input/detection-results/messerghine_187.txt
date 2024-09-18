@@ -1,0 +1,4 @@
+messerghine_cap 0.99 3521 702 3913 1204
+lalla_khedidja_bottle 0.96 813 142 3950 1827
+ain_bouglez_bottle 0.91 813 142 3950 1827
+besbassa_bottle 0.58 794 134 4015 1851

@@ -1,0 +1,3 @@
+el_kantara_cap 1958 96 2465 568
+el_kantara_ticket 814 1002 2609 2379
+el_kantara_bottle 25 63 2665 4024

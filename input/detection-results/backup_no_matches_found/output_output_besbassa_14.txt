@@ -1,0 +1,3 @@
+besbassa_bottle 1.00 850 551 1746 3609
+besbassa_ticket 0.99 865 1315 1766 1934
+besbassa_cap 0.89 1168 568 1522 824

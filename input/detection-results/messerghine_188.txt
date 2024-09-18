@@ -1,0 +1,2 @@
+lalla_khedidja_bottle 0.90 865 1497 2063 2994
+saida_bottle 0.60 865 1497 2063 2994

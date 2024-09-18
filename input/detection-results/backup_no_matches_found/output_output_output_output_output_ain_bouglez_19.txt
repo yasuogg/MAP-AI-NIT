@@ -1,0 +1,3 @@
+ain_bouglez_bottle 0.76 270 601 3148 2654
+ifren_ticket 0.71 817 727 2260 2446
+ain_bouglez_ticket 0.54 817 727 2260 2446

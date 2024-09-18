@@ -1,0 +1,2 @@
+ain_bouglez_bottle 0.72 46 1288 2633 2749
+lalla_khedidja_bottle 0.70 60 1314 2630 2791

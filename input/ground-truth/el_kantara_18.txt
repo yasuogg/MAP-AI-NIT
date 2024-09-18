@@ -1,0 +1,2 @@
+el_kantara_bottle 915 854 1685 3258
+el_kantara_cap 1258 862 1513 1087

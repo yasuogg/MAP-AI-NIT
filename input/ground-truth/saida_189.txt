@@ -1,0 +1,3 @@
+saida_cap 3565 996 3995 1549
+saida_ticket 871 373 1842 2067
+saida_bottle 159 255 4032 2155

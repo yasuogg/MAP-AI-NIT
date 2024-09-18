@@ -1,0 +1,4 @@
+besbassa_bottle 0.90 126 63 333 635
+el_kantara_bottle 0.73 125 69 331 620
+besbassa_ticket 0.71 132 209 322 393
+el_kantara_ticket 0.65 132 210 322 392

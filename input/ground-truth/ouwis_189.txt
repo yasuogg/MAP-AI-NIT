@@ -1,0 +1,3 @@
+ouwis_bottle 337 114 663 1249
+ouwis_cap 416 116 592 239
+ouwis_ticket 338 592 662 848

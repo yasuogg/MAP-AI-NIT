@@ -1,0 +1,6 @@
+ain_bouglez_cap 1.00 1245 290 1855 794
+ouwis_bottle 0.98 928 245 2028 3860
+ouwis_ticket 0.75 978 1105 2026 1975
+ain_bouglez_bottle 0.74 939 279 2022 3842
+el_kantara_ticket 0.61 978 1105 2026 1975
+ain_bouglez_ticket 0.51 975 1108 2028 1971

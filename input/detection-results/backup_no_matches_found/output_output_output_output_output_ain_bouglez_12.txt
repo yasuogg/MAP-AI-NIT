@@ -1,0 +1,4 @@
+ain_bouglez_bottle 0.99 652 0 2157 3710
+ain_bouglez_ticket 0.79 683 1511 2096 2588
+lalla_khedidja_cap 0.67 1179 29 1802 420
+ain_bouglez_cap 0.50 1179 29 1802 420

@@ -1,0 +1,6 @@
+lalla_khedidja_bottle 0.99 320 139 663 1266
+ouwis_ticket 0.69 325 543 662 854
+saida_bottle 0.63 320 139 663 1266
+el_kantara_ticket 0.59 325 543 662 854
+ouwis_bottle 0.57 326 136 664 1251
+lalla_khedidja_ticket 0.51 324 543 661 853

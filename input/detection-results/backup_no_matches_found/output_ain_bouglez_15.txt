@@ -1,0 +1,5 @@
+ouwis_bottle 0.97 199 0 539 1094
+lalla_khedidja_bottle 0.89 195 3 541 1102
+el_kantara_ticket 0.86 220 397 530 692
+ain_bouglez_bottle 0.83 194 11 545 1123
+ouwis_ticket 0.63 214 400 533 695

@@ -1,0 +1,2 @@
+ifren_bottle 132 176 778 527
+ifren_cap 128 413 191 486

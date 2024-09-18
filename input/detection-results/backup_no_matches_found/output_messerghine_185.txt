@@ -1,0 +1,5 @@
+messerghine_cap 1.00 3337 2007 3867 2566
+besbassa_bottle 0.99 802 226 3778 2661
+messerghine_bottle 0.75 802 226 3778 2661
+el_kantara_bottle 0.71 802 226 3778 2661
+ain_bouglez_bottle 0.64 802 226 3778 2661

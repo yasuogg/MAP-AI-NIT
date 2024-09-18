@@ -1,0 +1,2 @@
+el_kantara_bottle 1.00 0 171 2625 4032
+el_kantara_ticket 0.82 571 343 2531 1408

@@ -1,0 +1,3 @@
+messerghine_bottle 1.00 823 119 2182 3982
+messerghine_ticket 1.00 900 752 2125 1889
+messerghine_cap 0.98 1375 47 1825 371

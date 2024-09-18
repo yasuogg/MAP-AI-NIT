@@ -1,0 +1,4 @@
+besbassa_bottle 0.96 0 804 2427 3393
+ain_bouglez_ticket 0.77 1663 1427 2384 1989
+ain_bouglez_bottle 0.76 1341 931 2710 3101
+ain_bouglez_bottle 0.51 232 884 2722 3252

@@ -1,0 +1,3 @@
+ouwis_bottle 1.00 960 732 1794 3168
+ouwis_cap 0.97 1228 772 1622 1052
+el_kantara_bottle 0.93 960 732 1794 3168

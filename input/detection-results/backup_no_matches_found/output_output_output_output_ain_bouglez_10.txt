@@ -1,0 +1,3 @@
+el_kantara_bottle 0.86 869 18 2107 4032
+saida_bottle 0.79 865 13 2098 3960
+saida_ticket 0.52 956 975 2032 2014

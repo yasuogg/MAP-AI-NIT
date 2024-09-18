@@ -1,0 +1,2 @@
+el_kantara_bottle 0.91 900 98 2081 4020
+saida_bottle 0.71 889 92 2072 3917

@@ -1,0 +1,5 @@
+besbassa_bottle 0.98 614 315 2179 3621
+besbassa_cap 0.91 892 295 1469 690
+besbassa_ticket 0.91 649 1295 2128 2166
+lalla_khedidja_ticket 0.70 637 1300 2130 2162
+el_kantara_ticket 0.56 649 1295 2128 2166

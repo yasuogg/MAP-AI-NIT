@@ -1,0 +1,3 @@
+ain_bouglez_bottle 0.98 28 520 3376 2808
+ain_bouglez_ticket 0.98 1304 1406 2162 2460
+ain_bouglez_bottle 0.89 0 1350 3444 2712

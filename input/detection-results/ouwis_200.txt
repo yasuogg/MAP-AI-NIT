@@ -1,0 +1,4 @@
+ouwis_bottle 1.00 351 154 665 1223
+ouwis_ticket 1.00 359 553 663 818
+ouwis_cap 0.97 440 142 610 273
+besbassa_cap 0.56 442 142 610 274

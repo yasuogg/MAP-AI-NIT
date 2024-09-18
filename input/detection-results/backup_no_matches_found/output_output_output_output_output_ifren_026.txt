@@ -1,0 +1,2 @@
+ifren_bottle 0.76 25 48 807 620
+ifren_ticket 0.72 306 39 608 486

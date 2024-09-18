@@ -1,0 +1,4 @@
+besbassa_ticket 1.00 607 1121 1721 1863
+besbassa_bottle 1.00 594 240 1722 3973
+ain_bouglez_cap 0.57 1014 185 1452 522
+besbassa_cap 0.52 1014 185 1452 522

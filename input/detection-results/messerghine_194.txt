@@ -1,0 +1,3 @@
+saida_bottle 0.95 672 739 2551 2429
+messerghine_cap 0.82 2143 2083 2544 2473
+messerghine_bottle 0.54 698 744 2523 2439

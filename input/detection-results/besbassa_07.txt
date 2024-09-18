@@ -1,0 +1,4 @@
+besbassa_ticket 0.93 790 1456 3558 2923
+lalla_khedidja_bottle 0.91 547 355 2591 2827
+ifren_cap 0.65 936 320 1363 558
+besbassa_bottle 0.63 594 635 3424 2922

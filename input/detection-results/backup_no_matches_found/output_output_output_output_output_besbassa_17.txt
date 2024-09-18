@@ -1,0 +1,2 @@
+el_kantara_ticket 0.87 189 0 410 598
+el_kantara_ticket 0.73 190 20 399 375

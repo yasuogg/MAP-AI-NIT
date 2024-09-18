@@ -1,0 +1,4 @@
+messerghine_cap 0.99 3359 1974 3865 2637
+besbassa_bottle 0.99 774 232 3753 2694
+messerghine_bottle 0.74 774 232 3753 2694
+lalla_khedidja_bottle 0.67 774 232 3753 2694

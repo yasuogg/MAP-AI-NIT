@@ -1,0 +1,2 @@
+ain_bouglez_bottle 0.99 109 1186 3210 2401
+besbassa_bottle 0.68 109 1186 3210 2401

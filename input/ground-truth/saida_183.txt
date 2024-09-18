@@ -1,0 +1,2 @@
+saida_ticket 1512 244 3177 2338
+saida_bottle 283 149 3571 2514
